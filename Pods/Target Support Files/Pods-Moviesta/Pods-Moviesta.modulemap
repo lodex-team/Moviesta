@@ -1,0 +1,6 @@
+module Pods_Moviesta {
+  umbrella header "Pods-Moviesta-umbrella.h"
+
+  export *
+  module * { export * }
+}
